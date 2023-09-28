@@ -5,7 +5,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/pinzolo/mongotest"
+	"github.com/shellhub-io/mongotest"
 )
 
 func TestMain(m *testing.M) {

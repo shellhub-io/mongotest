@@ -3,7 +3,7 @@ package mongotest_test
 import (
 	"testing"
 
-	"github.com/pinzolo/mongotest"
+	"github.com/shellhub-io/mongotest"
 )
 
 func TestTry(t *testing.T) {

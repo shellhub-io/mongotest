@@ -3,7 +3,7 @@ package mongotest_test
 import (
 	"fmt"
 
-	"github.com/pinzolo/mongotest"
+	"github.com/shellhub-io/mongotest"
 )
 
 func Example() {

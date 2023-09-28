@@ -8,7 +8,7 @@ import (
 
 	"go.mongodb.org/mongo-driver/bson/primitive"
 
-	"github.com/pinzolo/mongotest"
+	"github.com/shellhub-io/mongotest"
 )
 
 func newDiff(key string, v1, v2 interface{}) string {

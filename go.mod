@@ -1,4 +1,5 @@
-module github.com/pinzolo/mongotest
+module github.com/shellhub-io/mongotest
+
 
 go 1.17
 
